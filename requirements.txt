@@ -1,0 +1,3 @@
+amak @ git+https://github.com/alexandreprl/AMAK-Python.git@eca8abbd7f4164cdd31b1b884432f3f224fb14dc
+pygame==2.6.1
+pygame-widgets==1.0.0
